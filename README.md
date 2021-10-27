@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @roccobalocco
 - 👀 I’m interested in IoT
 - 🌱 I’m currently learning CS
-- 💞️ I’m looking to collaborate on Myself
 - 📫 How to reach me ...
 
 <!---
