@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @roccobalocco
-- 👀 I’m interested in IoT
-- 🌱 I’m currently learning CS
-- 📫 How to reach me ...
