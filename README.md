@@ -111,13 +111,13 @@
 
 <li>
 <a href="https://www.linkedin.com/in/pietro-m-99b7b318a/" target="_blank">
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" />
 </a>
 </li>
 
 <li>
 <a href="https://www.instagram.com/pietromasolini_1ne/" target="_blank">
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -135,4 +135,8 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+Credit: 
+<ul>
+	<li>[Abdul Khalid](https://github.com/0xabdulkhalid)</li>
+	<li>[Ileriayo](https://github.com/Ileriayo/markdown-badges#markdown-badges)</li>
+</ul>
