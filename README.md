@@ -17,9 +17,8 @@
 
 <br>
 
-- A Computer Science student at UniMI
-- Currently learning Python
-- Struggling with Thesis
+- A graduate in Computer Science
+- Currently learning C#
 
 <br><br>
 
