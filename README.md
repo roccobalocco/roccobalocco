@@ -18,7 +18,7 @@
 <br>
 
 - A graduate in Computer Science
-- Currently learning C#
+- Currently interested in Python and Design Pattern
 
 <br><br>
 
