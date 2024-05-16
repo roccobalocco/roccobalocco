@@ -5,11 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=900&height=100&lines=The+strength+of+the+chain+is+in+the+weakest+link;++;Computer+Science+student;CTF+newbie;With+some+CyberSecurity+fundamentals"></a>
 </p>
 
-
 <br>
-
-
-
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -17,8 +13,8 @@
 
 <br>
 
-- A graduate in Computer Science
-- Currently interested in Python and Design Pattern
+- A graduate and a student in Computer Science
+- Currently a developer for Softeam SpA
 
 <br><br>
 
@@ -33,18 +29,19 @@
     ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
     ![TypeScript](https://img.shields.io/badge/TypeScript%20-%2314354C.svg?style=for-the-badge&logo=typescript&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
+    
 <br>	
 
  - **Some basic things about the following Languages**:
 	- Erlang
 	- Ocaml
-	
+	- Coq
+ 
 <br>   
     
 - **Front-End Development**:
@@ -52,9 +49,11 @@
    ![Angular](https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
    ![ngrx](https://img.shields.io/badge/ngrx%20-%23B31D61.svg?style=for-the-badge&logo=ngrx&logoColor=white)
    ![ng-zorro](https://img.shields.io/badge/ng--zorro%20-%236AB6FF.svg?style=for-the-badge&logo=ng-zorro&logoColor=white)
+   ![prime-ng](https://img.shields.io/badge/primeng%20-%236AB6FF.svg?style=for-the-badge&logo=primeng&logoColor=white)
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?style=for-the-badge&logo=typescript&logoColor=black)
 
 <br>
 
@@ -82,6 +81,8 @@
     ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
     ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
     ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+    ![Nginx](https://img.shields.io/badge/nginx-%23117AC9.svg?style=for-the-badge&logo=nginx&logoColor=white)
+    ![docker](https://img.shields.io/badge/docker-%23117AC9.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <br>
  
